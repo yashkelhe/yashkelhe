@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashkelhe1" target="blank"><img src="https://img.shields.io/twitter/follow/yashkelhe1?logo=twitter&style=for-the-badge" alt="yashkelhe1" /></a> </p>
 
-- 📫 How to reach me **yashkelhe01@gmail.com**
+- 📫 How to reach me **yashkelhe30@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rKvi_hJpaJ_S4takDv-aZKLbdwRWvCAZ/view?usp=sharing](https://drive.google.com/file/d/1rKvi_hJpaJ_S4takDv-aZKLbdwRWvCAZ/view?usp=sharing)
 
