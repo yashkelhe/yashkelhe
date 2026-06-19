@@ -1,65 +1,61 @@
-<h1 align="center">Hey 👋, I'm Yash Kelhe</h1>
-<h3 align="center">Solana Full Stack Developer | Rust Learner | Building on Web3</h3>
+<h1 align="center">Hi, I'm Yash 👋</h1>
 
----
+<h3 align="center">Building AI/ML systems RAG pipelines, agentic workflows & LLM engineering</h3>
 
-## 🚀 About Me
-
-- 🌱 Currently learning and building on **Solana ecosystem**
-- 🦀 Exploring **Rust**, **Anchor**, and **Solana Program Development**
-- 💻 Background in **Full Stack Development** with Node.js, React, PostgreSQL, and AWS
-- 🔭 Interested in building scalable **dApps**, DeFi protocols, and on-chain applications
-- 🎯 Goal: Become a strong **Solana Smart Contract Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### Blockchain / Web3
-![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana)
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
-![Anchor](https://img.shields.io/badge/Anchor-000?style=for-the-badge)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js)
-
-### Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### DevOps / Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-## 📌 Current Focus
-
-- Solana Programs with Rust
-- Anchor Framework
-- Token Programs
-- CPI & PDA concepts
-- Building end-to-end dApps
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/yashkelhe" target="blank">LinkedIn</a> •
-<a href="https://twitter.com/yashkelhe1" target="blank">Twitter</a> •
-<a href="https://medium.com/yashkelhe" target="blank">Medium</a> •
-<a href="https://www.leetcode.com/yashkelhe" target="blank">LeetCode</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=480&lines=Retrieval+Augmented+Generation;Multi-Agent+Systems;Hybrid+Search+%2B+Vector+DBs;Building+in+public+on+X" alt="Typing SVG" />
 </p>
 
-📫 Reach me at: **yashkelhe30@gmail.com**
+<p align="center">
+  <a href="https://x.com/yashkelhe1">
+    <img src="https://img.shields.io/badge/X-@yashkelhe1-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yashkelhe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=yashkelhe&show_icons=true&theme=tokyonight)
+- 💻 Software Developer specializing in **AI/ML systems & RAG pipelines** I build production-grade software, not prototypes
+- 🎯 Freelance-minded: I take ownership of a problem and don't stop until it ships, works, and holds up under real use
+- ⚙️ I care about the details that separate a demo from a deployable system: clean architecture, error handling, and scalability
+- 📍 Based in Mumbai, India
+- 🐦 Building in public on X sharing the journey, projects, and lessons learned
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashkelhe&theme=tokyonight)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkelhe&layout=compact&theme=tokyonight)
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nodejs,react,nextjs,typescript,postgres,mongodb,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Available for freelance & full-time AI/ML engineering work let's connect on X or LinkedIn.</i>
+</p>
