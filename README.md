@@ -42,11 +42,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>Available for freelance & full-time AI/ML engineering work let's connect on X or LinkedIn.</i>
